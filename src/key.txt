@@ -1,0 +1,3 @@
+INSTACLONE_KEY
+
+mongodb+srv://Kunal:Kansal @cluster0.qrke0wq.mongodb.net/
